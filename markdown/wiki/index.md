@@ -1,4 +1,4 @@
-
+y7g7j
 # Welcome to the PojavLauncher Wiki!
 ____
 * Get started by [installing Pojavlauncher](./getting_started/INSTALL)!
